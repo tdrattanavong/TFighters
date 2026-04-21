@@ -24,5 +24,11 @@ public class Main {
     FightingClass nak_muay = new FightingClass("Muay Thai",  "Hard-Hitting","Slow", "Tanky");
     FightingClass dang_soo_do = new FightingClass("Taekwondo",  "Precision","Fast", "Sustainable");
     FightingClass karate_do = new FightingClass("Karate",  "Technical","Steady", "Solid");
+    FightingClass grappler = new FightingClass("Wrestling",  "Aggressive","Explosive", "Tough");
+    FightingClass boxer = new FightingClass("Boxing",  "Calculated","Fast", "Sturdy");
+    FightingClass mix_martial_arts = new FightingClass("MMA",  "Well-Rounded","Controlled", "Solid");
+    FightingClass kodokan = new FightingClass("Judo",  "Tactical","Draggy", "Durable");
+    FightingClass ving_tsun = new FightingClass("Wing Chun",  "Deflection","Agile", "Fragile");
+
     }
 }
