@@ -1,6 +1,7 @@
 package com.pluralsight;
 
 import java.lang.reflect.Array;
+import java.util.Scanner;
 
 public class Main {
     static void main() {
@@ -29,6 +30,11 @@ public class Main {
     FightingClass mix_martial_arts = new FightingClass("MMA",  "Well-Rounded","Controlled", "Solid");
     FightingClass kodokan = new FightingClass("Judo",  "Tactical","Draggy", "Durable");
     FightingClass ving_tsun = new FightingClass("Wing Chun",  "Deflection","Agile", "Fragile");
+
+        Scanner scanner = new Scanner(System.in);
+
+
+
 
     }
 }
