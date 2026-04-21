@@ -22,7 +22,7 @@ public class Main {
 //       Taekwondo|Precision|Fast|Sustainable
 
     FightingClass nak_muay = new FightingClass("Muay Thai",  "Hard-Hitting","Slow", "Tanky");
-
-
+    FightingClass dang_soo_do = new FightingClass("Taekwondo",  "Precision","Fast", "Sustainable");
+    FightingClass karate_do = new FightingClass("Karate",  "Technical","Steady", "Solid");
     }
 }

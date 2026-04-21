@@ -13,19 +13,20 @@ public class FightingClass
     String fightingAttribute3;
 
 
-
-
-public FightingClass(String fightingStyle, String fightingAttribute1, String fightingAttribute2, String fightingAttribute3){
-    This.fightingStyles = fightingStyle;
-    This.fightingAttribute1 = fightingAttribute1;
-    This.fightingAttribute2 = fightingAttribute2;
-    This.fightingAttribute3 = fightingAttribute3;
-
+    public FightingClass(String fightingStyle, String fightingAttribute1, String fightingAttribute2, String fightingAttribute3){
+        this.fightingStyles = fightingStyle;
+        this.fightingAttribute1 = fightingAttribute1;
+        this.fightingAttribute2 = fightingAttribute2;
+        this.fightingAttribute3 = fightingAttribute3;
+    }
 
 
 
-}
 
 
 
 }
+
+
+
+
