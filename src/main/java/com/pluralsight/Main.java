@@ -31,7 +31,19 @@ public class Main {
     FightingClass kodokan = new FightingClass("Judo",  "Tactical","Draggy", "Durable");
     FightingClass ving_tsun = new FightingClass("Wing Chun",  "Deflection","Agile", "Fragile");
 
-        Scanner scanner = new Scanner(System.in);
+    Scanner scanner = new Scanner(System.in);
+
+    System.out.println("Choose Your Fighting Class");
+    System.out.println("1. Muay Thai");
+    System.out.println("2. Taekwondo");
+    System.out.println("3. Karate");
+    System.out.println("4. Wrestling");
+    System.out.println("5. Boxing");
+    System.out.println("6. MMA");
+    System.out.println("7. Judo");
+    System.out.println("8. Wing Chun");
+
+
 
 
 
